@@ -17,6 +17,9 @@ The R Resource section has collection of tasks that are done in R. This is meant
 [RBasic1](https://sidharthanr.github.io/Resource/RBasic1),
 [RBasic2](https://sidharthanr.github.io/Resource/RBasic2),
 [RBasic3](https://sidharthanr.github.io/Resource/RBasic3),
+[data.table](https://sidharthanr.github.io/Resource/RDTable),
+[dplyr](https://sidharthanr.github.io/Resource/dplyr)
+
 [RGIS](https://sidharthanr.github.io/Resource/RGIS),
 [Leaflet](https://sidharthanr.github.io/Resource/Leaflet)
 
